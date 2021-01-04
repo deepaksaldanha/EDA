@@ -2,7 +2,7 @@ This repository contains subfolders with the list of EDA projects that I have wo
 
 The projects include:
 - [Wines](https://github.com/deepaksaldanha/EDA/tree/main/Wines "Wines")
-- abc
+- ***Datasets to be added***
 
 | Sr.No  | Projects  |  Image | Description  |
 | :------------: | :------------: | :------------: | :------------: |
