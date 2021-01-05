@@ -16,6 +16,6 @@ This repository showcases some EDA datasets in Python that I have worked on
 
 | Sr.No  | Projects  |  Image | Description  |
 | :------------: | :------------: | :------------: | :------------: |
-|  1 |  <a id=section1></a>[Wines](https://github.com/deepaksaldanha/EDA/tree/main/Wines "Wines") |[![Wines](https://raw.githubusercontent.com/deepaksaldanha/EDA/main/Wines/Images/wine.jpg "Wines")](https://raw.githubusercontent.com/deepaksaldanha/EDA/main/Wines/Images/wine.jpg "Wines")   |  About Wines |
+|  1 |  <a id=section1></a>[Wine Analysis](https://github.com/deepaksaldanha/EDA/tree/main/Wines "Wines") |[![Wines](https://raw.githubusercontent.com/deepaksaldanha/EDA/main/Wines/Images/wine.jpg "Wines")](https://raw.githubusercontent.com/deepaksaldanha/EDA/main/Wines/Images/wine.jpg "Wines")   |  This dataset analyses the major constituents of wine and comes up with the recommendations to produce wine of high quality  |
 |  2 |  [![To be added](https://raw.githubusercontent.com/deepaksaldanha/EDA/main/To%20be%20added/Images/WIP.jpg "To be added")](https://raw.githubusercontent.com/deepaksaldanha/EDA/main/To%20be%20added/Images/WIP.jpg "To be added")  |<a id=section2></a>[Dataset to be added](https://github.com/deepaksaldanha/EDA/tree/main/To%20be%20added "Dataset to be added")  |  ** To be added**|
 |   |   |   |   |
