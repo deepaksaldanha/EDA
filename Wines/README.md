@@ -1,5 +1,8 @@
 ## EDA of Wine dataset
 
+
+
+
 Winex, a French company has been producing wines for the last 15 years, however they are keen to **increase market share** in the French market by **improving the quality of their wines**. 
   
   - They have approached Win Consultants to perform an **analysis on their product offerings** and
