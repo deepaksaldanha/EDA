@@ -12,3 +12,5 @@ Winex, a French company has been producing wines for the last 15 years, however 
   
 Key objectives:
    - What are the **key ingredients** that would help Winex produce the **best quality wines**
+
+[Click here to go to the Python notebook](https://github.com/deepaksaldanha/EDA/tree/main/Wines/PythonCode "Click here to go to the Python notebook")
