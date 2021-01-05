@@ -1,4 +1,4 @@
-This repository contains the EDA of Wine dataset:
+## EDA of Wine dataset
 
 Winex, a French company has been producing wines for the last 15 years, however they are keen to **increase market share** in the French market by **improving the quality of their wines**. 
   
